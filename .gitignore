@@ -1,0 +1,5 @@
+client/node_modules/
+client/.git/
+server/node_modules/
+server/.env
+server/.git/
